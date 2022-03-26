@@ -1,0 +1,20 @@
+.impar {
+    background-color: #ffb6c1;
+    font-family: Verdana, "DejaVu Sans" , sans-serif;
+}
+
+#number2 {
+    color: #5252f5;
+    font-size: 36px;
+}
+
+.impar-legal{
+    font-size: 24px;
+}
+
+#number4 {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
+
